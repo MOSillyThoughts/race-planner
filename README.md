@@ -11,3 +11,8 @@ A self-contained, single-file web app for planning a hot-weather IRONMAN / IRONM
 - Never invent values: use `null` and label estimates. Bump the data version and add a changelog entry.
 
 Sources: ironman.com, t100triathlon.com, Open-Meteo (ERA5), triathlonatlas.com, ai-triathlon-result.teraren.com. Simulated cutoffs are model outputs, not official rolldown results.
+
+## v2.2.0 (2026-10-12)
+- All active/future European IRONMAN, 70.3 and T100 races (warm or not); Climate filter + Europe-only toggle; rankings over all races and within warm races.
+- Named save slots (IndexedDB), 💾 Save button, Save to Files / Open file (.json).
+- Installable PWA: Add to Home Screen; works offline via `sw.js`. Note: on iOS the Home-Screen app's storage is separate from Safari – move plans via file or save code.
