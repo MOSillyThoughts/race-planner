@@ -16,3 +16,7 @@ Sources: ironman.com, t100triathlon.com, Open-Meteo (ERA5), triathlonatlas.com, 
 - All active/future European IRONMAN, 70.3 and T100 races (warm or not); Climate filter + Europe-only toggle; rankings over all races and within warm races.
 - Named save slots (IndexedDB), 💾 Save button, Save to Files / Open file (.json).
 - Installable PWA: Add to Home Screen; works offline via `sw.js`. Note: on iOS the Home-Screen app's storage is separate from Safari – move plans via file or save code.
+
+## v2.3.0 (2026-10-13)
+- +40 Challenge Family (Europe) and independent middle/long-distance races (Austria in full, neighbours within ~600 km of Vienna, south/east Germany, north Italy, Switzerland).
+- New filters: Distance (middle/long), Austria & neighbours; series colours.
