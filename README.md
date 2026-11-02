@@ -20,3 +20,7 @@ Sources: ironman.com, t100triathlon.com, Open-Meteo (ERA5), triathlonatlas.com, 
 ## v2.3.0 (2026-10-13)
 - +40 Challenge Family (Europe) and independent middle/long-distance races (Austria in full, neighbours within ~600 km of Vienna, south/east Germany, north Italy, Switzerland).
 - New filters: Distance (middle/long), Austria & neighbours; series colours.
+
+## v2.4.0 (2026-11-02)
+- Full Challenge Family calendar worldwide (middle/long/100 km); Challenge-run T100 Challengers shown as Challenge (T100 tag).
+- More local middle/long races (ALOHA TRI Linz, Triatlon Most, Balatonszemes, ALPSMAN, ICON Livigno).
