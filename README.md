@@ -27,3 +27,6 @@ Sources: ironman.com, t100triathlon.com, Open-Meteo (ERA5), triathlonatlas.com, 
 
 ## v2.4.0 (update)
 Categories (race type, character, level, estimated drive time) + 21 more races within ~1000 km of Vienna.
+
+## v2.4.1
+Routed drive times from Krems (OSRM).
