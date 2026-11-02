@@ -24,3 +24,6 @@ Sources: ironman.com, t100triathlon.com, Open-Meteo (ERA5), triathlonatlas.com, 
 ## v2.4.0 (2026-11-02)
 - Full Challenge Family calendar worldwide (middle/long/100 km); Challenge-run T100 Challengers shown as Challenge (T100 tag).
 - More local middle/long races (ALOHA TRI Linz, Triatlon Most, Balatonszemes, ALPSMAN, ICON Livigno).
+
+## v2.4.0 (update)
+Categories (race type, character, level, estimated drive time) + 21 more races within ~1000 km of Vienna.
